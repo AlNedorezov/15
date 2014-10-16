@@ -1,0 +1,15 @@
+c:\users\связной\documents\visual studio 2010\Projects\pyatnashki-v1\pyatnashki-v1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\связной\documents\visual studio 2010\Projects\pyatnashki-v1\pyatnashki-v1\bin\Debug\pyatnashki-v1.exe
+c:\users\связной\documents\visual studio 2010\Projects\pyatnashki-v1\pyatnashki-v1\bin\Debug\pyatnashki-v1.pdb
+c:\users\связной\documents\visual studio 2010\Projects\pyatnashki-v1\pyatnashki-v1\obj\x86\Debug\pyatnashki-v1.exe
+c:\users\связной\documents\visual studio 2010\Projects\pyatnashki-v1\pyatnashki-v1\obj\x86\Debug\pyatnashki-v1.pdb
+I:\Уроки\Программирование\dot NET\15\pyatnashki-v1\pyatnashki-v1\obj\x86\Debug\pyatnashki-v1.exe
+I:\Уроки\Программирование\dot NET\15\pyatnashki-v1\pyatnashki-v1\obj\x86\Debug\pyatnashki-v1.pdb
+I:\Уроки\Программирование\dot NET\15\pyatnashki-v1\pyatnashki-v1\bin\Debug\pyatnashki-v1.exe
+I:\Уроки\Программирование\dot NET\15\pyatnashki-v1\pyatnashki-v1\bin\Debug\pyatnashki-v1.pdb
+I:\Уроки\Программирование\dot NET\15\pyatnashki-v1\pyatnashki-v1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Уроки\Программирование\dot NET\15\pyatnashki-v2\pyatnashki-v1\obj\x86\Debug\pyatnashki-v1.exe
+I:\Уроки\Программирование\dot NET\15\pyatnashki-v2\pyatnashki-v1\obj\x86\Debug\pyatnashki-v1.pdb
+I:\Уроки\Программирование\dot NET\15\pyatnashki-v2\pyatnashki-v1\bin\Debug\pyatnashki-v1.exe
+I:\Уроки\Программирование\dot NET\15\pyatnashki-v2\pyatnashki-v1\bin\Debug\pyatnashki-v1.pdb
+I:\Уроки\Программирование\dot NET\15\pyatnashki-v2\pyatnashki-v1\obj\x86\Debug\ResolveAssemblyReference.cache
